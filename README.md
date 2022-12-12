@@ -4,7 +4,7 @@
 
 #### 👨🏻‍💻 About me
 
-I am Vasily Duzhenkij, a **Python Developer** and **analyst**. 
+I am Vasily Duzhenky, a **Python Developer** and **analyst**. 
 
 I enjoy contributing to **OpenSource** projects and learning new **computer technologies**. I have already learnt **Python** and some libraries such as **Pandas**, **NumPy**, **Requests**, **BeautifulSoup**, **Selenium** and so on. I also know **HTML** and **CSS**, it helps me to scrape sites and get data. I love to create **Telegram-bots**, **scripts for automating routine tasks**, **get data** and **analyse** it. Also I often use **SQL** and **VBA** in my projects.
 
