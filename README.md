@@ -13,7 +13,6 @@ In my free time I play the guitar 🎸, travel 🗿 and read Russian and world c
 
 #### 🎯 My projects
 - [**MosPharmaciesBot**](https://github.com/duzhenkij/MosPharmaciesBot) - a Telegram-bot that can be used for searching medicines among top pharmacies of Moscow (such as «Аптека 36,6», «Горздрав», «Самсон-Фарма», «Здоров.ру» and «Аптеки Столички») by the best price;
-- **NovotroitskBot** - a Telegram-bot for a town that returns to user information about current weather, days forecast, last news, events' and movies' timetable in the town;
 - **Scripts for detecting unacceptable content** in Telegram-chats and automatical moderation;
 - [**MonkeyPox Analytical Report**](https://github.com/duzhenkij/MonkeyPox_Analytical_Report) - a script that processes data from GlobalHealth repository and creates an Excel-file with a report of current situation of Monkeypox in the world;
 - Python library for **cipher algorithms** such as Caesar and Vigenere.
