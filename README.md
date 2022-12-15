@@ -13,10 +13,10 @@ In my free time I play the guitar 🎸, travel 🗿 and read Russian and world c
 
 #### 🎯 My projects
 - [**MosPharmaciesBot**](https://github.com/duzhenky/MosPharmaciesBot) - a Telegram-bot that can be used for searching medicines among top pharmacies of Moscow (such as «Аптека 36,6», «Горздрав», «Самсон-Фарма», «Здоров.ру» and «Аптеки Столички») by the best price;
-- **Scripts for detecting unacceptable content** in Telegram-chats and automatical moderation;
 - [**MonkeyPox Analytical Report**](https://github.com/duzhenky/MonkeyPox_Analytical_Report) - a script that processes data from GlobalHealth repository and creates an Excel-file with a report of current situation of Monkeypox in the world;
 - [**YandexDiskUploader**](https://github.com/duzhenky/YandexDiskUploader) - The program performs data backup, as well as creation and/or updating of Documents, Music, Photos, Videos, PycharmProjects folders on Yandex.Disk from PC
-- Python library for **cipher algorithms** such as Caesar and Vigenere.
+- Python library for **cipher algorithms** such as Caesar and Vigenere;
+- - **Scripts for detecting unacceptable content** in Telegram-chats and automatical moderation;
 
 #### ☎️ Contact me
 
