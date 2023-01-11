@@ -19,7 +19,7 @@ In my free time I play the guitar 🎸, travel 🗿 and read Russian and world c
 - Python library for **cipher algorithms** such as Caesar and Vigenere;
 - **Scripts for detecting unacceptable content** in Telegram-chats and automatical moderation;
 
-#### ☎️ Contact me
+#### ☎️ Contacts
 
 <div id="badges">
   <a href="https://t.me/duzhenky">
